@@ -35,7 +35,7 @@ body {
     border-radius: 4px;
     width: 100%;
     height: 100%;
-/*     filter: url('#remove-black'); */
+    filter: url('#remove-black');
     transition: opacity .4s;
   
     &.clear {
